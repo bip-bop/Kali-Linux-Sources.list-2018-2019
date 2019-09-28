@@ -1,5 +1,5 @@
 # Kali-Linux-Sources.list-2018-2019
-( Open Terminal - nano /etc/apt/sources.list ) 
+( Open Terminal - leafpad /etc/apt/sources.list ) 
 
 
 
